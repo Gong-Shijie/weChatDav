@@ -1,0 +1,4 @@
+<view class="titleSpace">
+<view class = "indexTitle">微信小程序原生组件集</view>
+<text class="wechatIcon"></text>
+</view>
